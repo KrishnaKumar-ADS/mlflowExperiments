@@ -1,0 +1,16 @@
+artifact_uri: file:///E:/Boot/Implementations/MLFlow/mlruns/0/13653fe8bc614b9e80ce5da1ebb00887/artifacts
+deleted_time: 1756653307172
+end_time: 1756635759014
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 13653fe8bc614b9e80ce5da1ebb00887
+run_name: melodic-zebra-432
+run_uuid: 13653fe8bc614b9e80ce5da1ebb00887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635758976
+status: 4
+tags: []
+user_id: kk932

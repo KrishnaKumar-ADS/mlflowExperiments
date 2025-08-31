@@ -1,0 +1,16 @@
+artifact_uri: file:///E:/Boot/Implementations/MLFlow/mlruns/0/8f4edee42c194801b24d110c468a6aa0/artifacts
+deleted_time: 1756653307171
+end_time: 1756635891259
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8f4edee42c194801b24d110c468a6aa0
+run_name: placid-quail-458
+run_uuid: 8f4edee42c194801b24d110c468a6aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756635891224
+status: 4
+tags: []
+user_id: kk932
